@@ -1,6 +1,6 @@
 Proyecto TEST_LAMBDA
 
-Este proyecto está basado en el siguiente, sólo incluye el src y varios test unitario. Para probarlo en AWS ver el texto completo (además sirve para información adicional):
+Este proyecto incluye el src y varios test unitario de lo que sería una lambda con su parte de testeo unitario. Este proyecto está basado en el enlace inferior, para probarlo en AWS ver el texto completo (además sirve para información adicional):
 http://www.giantflyingsaucer.com/blog/?p=5730
 
 --------------------------
